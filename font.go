@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/go-gl/gl/v3.3-compatibility/gl"
+	"github.com/go-gl/gl/v2.1/gl"
 )
 
 // Direction represents the direction in which strings should be rendered.
